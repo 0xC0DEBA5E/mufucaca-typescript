@@ -1,0 +1,24 @@
+{
+  "name": "mufucaca-typescript",
+  "version": "0.0.0",
+  "description": "Typescript-Wrapper for cordova-plugin-mufucaca (https://github.com/0xC0DEBA5E/cordova-plugin-mufucaca).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xC0DEBA5E/mufucaca-typescript.git"
+  },
+  "keywords": [
+    "mufucaca",
+    "cordova-plugin-mufucaca",
+    "typescript",
+    "nfc"
+  ],
+  "author": "Benjamin Roth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xC0DEBA5E/mufucaca-typescript/issues"
+  },
+  "homepage": "https://github.com/0xC0DEBA5E/mufucaca-typescript#readme"
+}
