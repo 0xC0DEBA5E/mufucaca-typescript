@@ -1,5 +1,6 @@
 import { Cordova, Plugin } from 'ionic-native';
 import { Observable } from 'rxjs/Observable';
+export { Card } from './card';
 
 declare let window: Window;
 

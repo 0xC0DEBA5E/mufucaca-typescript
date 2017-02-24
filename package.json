@@ -1,6 +1,6 @@
 {
   "name": "mufucaca-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Typescript-Wrapper for cordova-plugin-mufucaca (https://github.com/0xC0DEBA5E/cordova-plugin-mufucaca).",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
