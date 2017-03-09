@@ -1,5 +1,5 @@
 # mufucaca-typescript
-Typescript-Wrapper for cordova-plugin-mufucaca
+Typescript-Wrapper for [cordova-plugin-mufucaca](https://github.com/0xC0DEBA5E/cordova-plugin-mufucaca).
 
 Provides access to the events sent by cordova-plugin-mufucaca via rxjs observables or promises.
 ## Installation
